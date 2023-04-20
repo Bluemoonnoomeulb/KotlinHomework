@@ -12,7 +12,7 @@ fun MutableList<Int>.power() {
         try {
             iterate.set(toIntExact(longPerformance * longPerformance))
         } catch (e: ArithmeticException) {
-            throw ArithmeticException("Int overflow has been prevented for the value: $currentValue")
+            throw ArithmeticException("Int overflow has been prevented for value to the power of 2: $currentValue")
         }
     }
 }

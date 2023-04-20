@@ -11,8 +11,6 @@ internal class TestForTask1 {
         assertEquals(mutableList, mutableListOf(0, 1, 25, 64, 20736, 900, 5550736))
 
         mutableList = mutableListOf(131, -12, 31, 17, 85, 132421, 0, 5)
-        assertFailsWith<ArithmeticException> {
-            mutableList.power()
-        }
+        assertFailsWith<ArithmeticException> { mutableList.power() }
     }
 }

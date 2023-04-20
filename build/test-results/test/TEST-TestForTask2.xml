@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestForTask2" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-20T21:25:17" hostname="LAPTOP-1QKQUOA7" time="0.075">
+  <properties/>
+  <testcase name="makeConversion()" classname="TestForTask2" time="0.075"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
