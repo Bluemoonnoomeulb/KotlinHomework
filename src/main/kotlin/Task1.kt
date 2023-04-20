@@ -1,6 +1,5 @@
 import java.lang.Math.toIntExact
 
-
 /*  Extension function for MutableList collection
     If Int overflows, an exception is thrown */
 fun MutableList<Int>.power() {
