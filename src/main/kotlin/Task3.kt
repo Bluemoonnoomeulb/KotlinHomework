@@ -1,4 +1,6 @@
 
+/*  List processing method
+    Returns the sum of the remaining elements */
 fun getSum(list : List<Double?>) : Double {
     return list
         .asSequence()

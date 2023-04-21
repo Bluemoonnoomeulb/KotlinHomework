@@ -3,7 +3,7 @@ import kotlin.math.roundToInt
 import java.lang.Math.toIntExact
 
 /*  Method determines class membership
-    Return formatted string
+    Returns formatted string
     If Int overflows, an exception is thrown */
 fun makeConversion(anyObject: Any?) : String {
     var resultString : String

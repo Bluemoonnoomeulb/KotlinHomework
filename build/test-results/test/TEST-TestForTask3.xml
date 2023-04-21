@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestForTask3" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-21T12:52:09" hostname="LAPTOP-1QKQUOA7" time="0.078">
-  <properties/>
-  <testcase name="getSum()" classname="TestForTask3" time="0.078"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
